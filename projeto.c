@@ -20,6 +20,13 @@ int multiplicacao(int a, int b)
 
 int divisao(int a, int b)
 {
+	if(b==0)
+	{
+		printf("Nao pode dividir\n");
+		return div;
+	}else{
+		(div= a/b);
+	}
 	int div = a/b;
 	return div;
 }
