@@ -1,3 +1,2 @@
-# 
-
-##Adicionando subtitulo
+Minicurso de GIT
+Adicionando subtitulo
